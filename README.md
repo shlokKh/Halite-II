@@ -17,4 +17,7 @@ compared to python. Implemented many of my computations from the python bot into
 their efficiency per turn.
 
 
+
+
+
 You can find the code for each bot in their respective folders and see a more detailed description of my changes in their respective folders!
