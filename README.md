@@ -1,7 +1,12 @@
 # Halite-II
 Halite is an open source artificial intelligence programming challenge, created by Two Sigma, where players build bots using the coding language of their choice to battle on a two-dimensional virtual board.
 
+[More Info](https://halite.io/)
+
+
 # Languages
+
+[My Profile](https://halite.io/user/?user_id=5750)
 
 ## Python(Rank: 363)
 Utilized Python because it is a language I am familiar with and was a easy to implement strategies. Had to switch because the amount of 
