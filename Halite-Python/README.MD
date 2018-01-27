@@ -1,3 +1,13 @@
+# Changes
+
+## Ranked: 363
+
+Sorted planets by distance using ordered dictionary, created a % of attacking ships that would attack each turn.
+
+## Issues
+
+Near end games I would begin to time out this is due to the fact that python struggles to number crunch at a fast pace.  
+
 # Using your starter kit
 
 All starter kits should contain a `run_game.sh` and `run_game.bash`, you can use these scripts to quickly run a game of halite. By default, this script runs the basic __Settler__ bot against itself.
