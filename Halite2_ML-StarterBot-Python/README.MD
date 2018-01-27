@@ -1,3 +1,6 @@
+# Changes
+
+Trained on gold-player replays, changed network architecture ranked at 400
 # Using your starter kit
 
 All starter kits should contain a `run_game.sh` and `run_game.bash`, you can use these scripts to quickly run a game of halite. By default, this script runs the basic __Settler__ bot against itself.
